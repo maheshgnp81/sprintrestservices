@@ -1,7 +1,7 @@
 @@ -0,0 +1,49 @@
 provider "aws" {
-access_key = "AKIA3QEJZV3EISSUP66L"
-secret_key = "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"
+access_key = "test"
+secret_key = "test"
 region = "us-east-1"
 }
 
